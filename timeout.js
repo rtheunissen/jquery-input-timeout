@@ -23,9 +23,6 @@
         enter: false,
 
         //
-        start: null,
-
-        //
         callback: null,
     };
 
@@ -44,6 +41,7 @@
 
     // Avoid Plugin.prototype conflicts
     $.extend(Timeout.prototype, {
+
         init: function () {
 
             //
@@ -116,12 +114,6 @@
 
         //
         onInput: function () {
-
-            //
-            if(this.settings.start !== null){
-                this.settings.start.call(this.element);
-            }
-
             var text = $(this.element).val();
             if (text) {
                 this.restartTimer();
