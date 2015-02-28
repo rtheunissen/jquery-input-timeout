@@ -1,0 +1,16 @@
+{
+  "name": "jquery-input-timeout",
+  "main": "timeout.js",
+  "version": "1.0.0",
+  "authors": [
+    "Rudi Theunissen <rudolf.theunissen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
