@@ -1,7 +1,6 @@
 # Input Timeout JQuery Plugin
 
-Makes it easy to handle an event that
-fires after a text input's value is updated, given a delay threshold.
+A convenient way to trigger an event after a given timeout when a text element's value is updated. 
 
 This is useful for fields that make HTTP requests on input, such as autocomplete fields and fields that
 update a model as the user changes a value. It's aim is to minimize the number of requests while maximizing 
