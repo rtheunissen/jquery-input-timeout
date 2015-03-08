@@ -1,5 +1,7 @@
 # Input Timeout JQuery Plugin
 
+![Bower](https://img.shields.io/bower/v/jquery-input-timeout.svg?style=flat-square)
+
 A convenient way to trigger an event after a given timeout when a text element's value is updated. 
 
 This is useful for fields that make HTTP requests on input, such as autocomplete fields and fields that
