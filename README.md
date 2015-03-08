@@ -12,7 +12,12 @@ It also handles drop, paste and cut events.
 
 I haven't done extensive browser support testing for it yet so use with care.
 
-## Usage
+### Install ###
+```
+bower install material-design-preloader
+```
+
+### Usage
 
 
 ```js
