@@ -14,7 +14,7 @@ I haven't done extensive browser support testing for it yet so use with care.
 
 ### Install ###
 ```
-bower install material-design-preloader
+bower install jquery-input-timeout
 ```
 
 ### Usage
