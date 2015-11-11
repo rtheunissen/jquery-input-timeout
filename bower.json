@@ -1,7 +1,7 @@
 {
   "name": "jquery-input-timeout",
   "main": "timeout.js",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "authors": [
     "Rudi Theunissen <rudolf.theunissen@gmail.com>"
   ],
