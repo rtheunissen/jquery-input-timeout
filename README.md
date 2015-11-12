@@ -23,7 +23,7 @@ bower install jquery-input-timeout
 ```js
 
 var options = {
-    enter: true,  // whether to trigger the callback on enter
+    enter: false, // whether to trigger the callback on enter
     blur:  false, // whether to trigger the callback on focus lost
     delay: 500,   // threshold between input and event trigger
 }
