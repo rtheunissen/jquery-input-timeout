@@ -96,9 +96,7 @@
          * Triggered when the text value of the input element has been updated
          */
         onTextInput: function() {
-            if (this.element.val()) {
-                return this.restartTimer();
-            }
+            return this.restartTimer();
         },
 
         /**
