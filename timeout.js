@@ -103,7 +103,7 @@
          * Defines the events for which to listen to in order to determine a text update
          */
         getInputEvents: function() {
-            return 'input paste drop cut change';
+            return 'input paste drop cut';
         },
 
         /**
